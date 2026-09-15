@@ -78,8 +78,7 @@
 ### 自由空间路径损耗 (FSPL)
 
 $$
-\mathrm{FSPL}(d) = 20 \log_{10}\!\left(\frac{4\pi d}{\lambda}\right) \quad [\mathrm{dB}]
-$$
+\mathrm{FSPL}(d) = 20 \log_{10}\left(\frac{4\pi d}{\lambda}\right) \quad [\mathrm{dB}]$$
 
 其中 $d$ 为星地斜距（m），$\lambda = c / f$ 为载波波长（m）。
 
