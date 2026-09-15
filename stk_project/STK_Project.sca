@@ -1,0 +1,31 @@
+stk.v.9.0
+WrittenBy    STK_v9.2.1
+BEGIN Access 
+        Scenario/STK_Project/Satellite/CBERS_2B_32062
+        Scenario/STK_Project/Facility/Changchun
+
+    UpdateOnReference        Yes
+    DupIsDifferent           No
+    UIOrderReversed          No
+    UITimePeriod             Scenario
+    UseLightTimeDelay        Yes
+    ClockHost                Base
+    TimeSense                Transmit
+    AberrationType           Annual
+    TimeDelayConvergence     5.000000e-005
+    MaxTimeStep              3.600000e+002
+    MinTimeStep              1.000000e-002
+    TimeConvergence          5.000000e-003
+    AbsValueConvergence      1.000000e-014
+    RelValueConvergence      1.000000e-008
+    DetectEventsUsingSamplesOnly No
+	BEGINUserList 
+        0.000000 86400.000000
+	ENDUserList 
+    ShowIV                   Yes
+    ShowLineGfx              Yes
+    ShowHiliteGfx            Yes
+    LineWidth                1.000000e+000
+
+END Access
+

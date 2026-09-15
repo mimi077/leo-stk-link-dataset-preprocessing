@@ -1,0 +1,56 @@
+[Analytical Graphics, Inc]
+WorkbookVersion=9.0
+Title=STK_Project
+Description=
+ApplicationVersion=STK 9.2.1
+Scenario=YES
+ActiveMDIState=TRUE
+[WorkState_v1_2]
+ptn_Child1=Frames
+[WorkState_v1_2.Frames]
+ptn_Child1=MainFrame
+ptn_Child2=ChildFrames
+[WorkState_v1_2.Frames.MainFrame]
+WindowPlacement=MCAAAAAACAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAPPPPPPPPPPPPPPPPACDAAAAADOBAAAAAOJHAAAAAJEFAAAAA
+Title=STK_Project - STK 9 - [CBERS_2B_32062 : Basic Orbit]
+[WorkState_v1_2.Frames.ChildFrames]
+ptn_Child1=Document-0
+ptn_Child2=Document-1
+ptn_Child3=Document-2
+ptn_Child4=Document-3
+[WorkState_v1_2.Frames.ChildFrames.Document-0]
+ptn_Child1=ViewFrame-0
+[WorkState_v1_2.Frames.ChildFrames.Document-0.ViewFrame-0]
+DocPathName=C:\Users\mimi\Desktop\trae_project1\STK 星地链路访问数据解析与可视化\AgUi3DGfxView9.AgUiPi3DGfxView.1
+DocumentString=AgUi3DGfxView.AgUiPi3DGfxView.1
+DocTemplateIndex=0
+WindowPlacement=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPKPPPPPPPNNPPPPPPOEBAAAAAAAAAAAAAOIDAAAAANFBAAAAA
+IsActiveChildFrame=False
+IsFrameVisible=True
+ptn_Child1=AGI Custom Node Data
+[WorkState_v1_2.Frames.ChildFrames.Document-0.ViewFrame-0.AGI Custom Node Data]
+MapID=1
+SceneType=1
+[WorkState_v1_2.Frames.ChildFrames.Document-1]
+ptn_Child1=ViewFrame-0
+[WorkState_v1_2.Frames.ChildFrames.Document-1.ViewFrame-0]
+DocPathName=C:\Users\mimi\Desktop\trae_project1\STK 星地链路访问数据解析与可视化\AgUi2DGfxView9.AgUiPi2DGfxView.1
+DocumentString=AgUi2DGfxView.AgUiPi2DGfxView.1
+DocTemplateIndex=0
+WindowPlacement=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPMPPPPPPPPNPPPPPPOEBAAAAAKFBAAAAAOIDAAAAACLCAAAAA
+IsActiveChildFrame=False
+IsFrameVisible=True
+ptn_Child1=AGI Custom Node Data
+[WorkState_v1_2.Frames.ChildFrames.Document-1.ViewFrame-0.AGI Custom Node Data]
+MapID=1
+[WorkState_v1_2.Frames.ChildFrames.Document-2]
+ptn_Child1=ViewFrame-0
+[WorkState_v1_2.Frames.ChildFrames.Document-2.ViewFrame-0]
+DocPathName=C:\Users\mimi\Desktop\trae_project1\STK 星地链路访问数据解析与可视化\AgUiAttrBrowser9.AgUiPiAttrBrowser.1
+DocumentString=AgUiAttrBrowser.AgUiPiAttrBrowser.1
+DocTemplateIndex=0
+WindowPlacement=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPAAAAAAAAAAAAAAAAEMAAAAAAFFDAAAAA
+IsActiveChildFrame=False
+IsFrameVisible=True
+ProfUISBarID=63000
+ptn_Child1=AGI Custom Node Data
